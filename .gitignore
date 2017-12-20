@@ -1,0 +1,6 @@
+# Ignore all
+*
+
+# Keep important stuff
+!.gitignore
+!ILAssembler.py
